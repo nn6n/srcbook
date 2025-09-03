@@ -27,7 +27,7 @@
     "@ai-sdk/openai": "catalog:",
     "@ai-sdk/provider": "^1.0.1",
     "@srcbook/shared": "workspace:^",
-    "ai": "^3.4.33",
+    "ai": "^5.0.0",
     "archiver": "^7.0.1",
     "better-sqlite3": "^11.3.0",
     "cors": "^2.8.5",
