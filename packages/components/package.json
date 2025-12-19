@@ -40,7 +40,7 @@
     "cmdk": "^1.0.0",
     "marked": "catalog:",
     "marked-react": "^2.0.0",
-    "mermaid": "^11.2.0",
+    "mermaid": "^11.12.1",
     "react-resizable-panels": "^2.1.2"
   },
   "peerDependencies": {
