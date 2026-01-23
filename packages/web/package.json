@@ -28,7 +28,7 @@
     "@uiw/react-codemirror": "^4.23.2",
     "clsx": "^2.1.1",
     "codemirror": "^6.0.1",
-    "diff": "^7.0.0",
+    "diff": "^8.0.3",
     "lucide-react": "^0.439.0",
     "marked": "catalog:",
     "marked-react": "^2.0.0",
